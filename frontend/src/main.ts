@@ -1,6 +1,6 @@
 import "./style.css";
 
-const API = "http://127.0.0.1:8000/api";
+const API = "http://merzado-6ib2.onrender.com/api";
 
 let accessToken = localStorage.getItem("access");
 let currentRole = localStorage.getItem("role");
