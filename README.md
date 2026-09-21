@@ -183,3 +183,13 @@ The frontend displays error messages when API requests fail and provides loading
 - Real-time notifications
 - PostgreSQL for production
 - Production deployment with HTTPS
+
+
+# MERZADO - Mini B2B RFQ Marketplace
+ ## Live Demo
+ [Open MERZADO](https://luxury-treacle-cb92e5.netlify.app/)
+
+ ### link
+ Frontend: https://luxury-treacle-cb92e5.netlify.app/
+ Backend: https://merzado-6ib2.onrender.com
+ GitHub:https://github.com/raja-laxmi/merzado
